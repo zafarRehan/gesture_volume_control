@@ -5,13 +5,18 @@ import numpy as np
 
 def record(fps, duration):
     # display screen resolution, get it using pyautogui itself
+    
     SCREEN_SIZE = tuple(pyautogui.size())
     # define the codec
+    
     fourcc = cv2.VideoWriter_fourcc(*"XVID")
+    
     # frames per second
     fps = fps
+    
     # create the video write object
     out = cv2.VideoWriter("output.avi", fourcc, fps, (SCREEN_SIZE))
+    
     # the time you want to record in seconds
     record_seconds = duration
     
