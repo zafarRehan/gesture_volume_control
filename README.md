@@ -3,7 +3,7 @@
 This repository walks you through the Hand Detection module of MediaPipe and use it to track your fingers and control system volume using it.
 MedaPipe Hands link: https://google.github.io/mediapipe/solutions/hands.html
 
-<h3>Required Libraries</h3>
+## Required Libraries
 
 
     pip install opencv-python
@@ -14,7 +14,7 @@ MedaPipe Hands link: https://google.github.io/mediapipe/solutions/hands.html
     
 <br/>
 
-<h3>Contents</h3>
+## Contents
 <h4>1. HandTrackerModule.py</h4>
 This code is used to track hands from a video source. </br>
 Run this code to check hand detection from video
