@@ -35,7 +35,7 @@ For now I am running the screen recorder code with different console so that we 
 We can also have them running from same console using <b> python multiprocessing </b> code for which I will upload later
 
 
-<h3><u>Running the code<u></h3>
+<h3><u>Running the code</u></h3>
 1. Run <a href="/gesture_volume_control.py">gesture_volume_control.py</a> for controlling the volume using finger tip gesture </br>
 2. Run <a href="/HandTrackerModule.py">HandTrackerModule.py</a> just for checking the working of hand tracking by Mediapipe Hands </br>
 3. Run <a href="/screen_recoreder.py">screen_recoreder.py</a> for using python to record your screen. Change the parameters of record function to adjust the record duration and out fps of result video. </br>
