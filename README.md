@@ -29,8 +29,8 @@ The default windows Xbox recorder didn't allow to record overlays on screen so I
 
 This require another library to read everything on screen
 
-        pip install pyautogui
-</br>
+    pip install pyautogui
+
 For now I am running the screen recorder code with different console so that we can have both screen_recorder.py and gesture_volume_control.py running simultaneously.
 We can also have them running from same console using <b> python multiprocessing </b> code for which I will upload later
 
