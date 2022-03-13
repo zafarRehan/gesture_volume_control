@@ -15,17 +15,24 @@ MedaPipe Hands link: https://google.github.io/mediapipe/solutions/hands.html
 <br/>
 
 <h3>Contents</h3>
-<h4>1. HandTrackerModule.py</h4> </br>
+<h4>1. HandTrackerModule.py</h4>
 This code is used to track hands from a video source. </br>
 Run this code to check hand detection from video
 
 The code is well-commented so the working can be found in comments
 
-<h4>2. gesture_volume_control.py</h4> </br>
+<h4>2. gesture_volume_control.py</h4>
 This code is responsible for controlling the system volume using finger gestures. </br>
 
-<h4>3. screen_recorder.py</h4> </br>
+<h4>3. screen_recorder.py</h4>
 The default windows Xbox recorder didn't allow to record overlays on screen so I decided to make my own screen recorder
 
-This require another 
+This require another library to read everything on screen
+
+        pip install pyautogui
+</br>
+For now I am running the screen recorder code with different console so that we can have both screen_recorder.py and gesture_volume_control.py simultaneously.
+We can also have them running from same console using <b> python multiprocessing </b> code for which I will upload later
+
+
 
