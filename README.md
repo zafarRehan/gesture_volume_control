@@ -1,6 +1,6 @@
 # Gesture Volume Control
 
-This repository walks you through the Hand Detection module of MediaPipe and use it to track your fingers and control system volume using it.
+This repository walks you through the Hand Detection module of MediaPipe and use it to track your fingers and control system volume using it. </br>
 MedaPipe Hands link: https://google.github.io/mediapipe/solutions/hands.html
  </br> 
  
@@ -43,5 +43,9 @@ We can also have them running from same console using <b> python multiprocessing
 3. Run <a href="/screen_recoreder.py">screen_recoreder.py</a> for using python to record your screen. Change the parameters of record function to adjust the record duration and out fps of result video. </br>
 
 
-<
-   
+So basically we basically have 3 different functions in a single Repository
+
+</br>
+
+## Output Video
+<a href="https://drive.google.com/file/d/1of42OIh8z3cti1n4WN83p1HRQ0-WIiId/view?usp=sharing"><img src="/screen.png" width=600 /></a>
