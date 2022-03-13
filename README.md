@@ -2,7 +2,8 @@
 
 This repository walks you through the Hand Detection module of MediaPipe and use it to track your fingers and control system volume using it.
 MedaPipe Hands link: https://google.github.io/mediapipe/solutions/hands.html
-
+ </br> 
+ 
 ## Required Libraries
 
 
@@ -34,6 +35,7 @@ This require another library to read everything on screen
 For now I am running the screen recorder code with different console so that we can have both screen_recorder.py and gesture_volume_control.py running simultaneously.
 We can also have them running from same console using <b> python multiprocessing </b> code for which I will upload later
 
+</br>
 
 ## Running the code
 1. Run <a href="/gesture_volume_control.py">gesture_volume_control.py</a> for controlling the volume using finger tip gesture </br>
