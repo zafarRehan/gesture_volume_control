@@ -36,9 +36,9 @@ We can also have them running from same console using <b> python multiprocessing
 
 
 <h3>Running the code</h3>
-1. Run <a src="/gesture_volume_control.py">gesture_volume_control.py</a> for controlling the volume using finger tip gesture
-2. Run <a src="/HandTrackerModule.py">HandTrackerModule.py</a> just for checking the working of hand tracking by Mediapipe Hands
-3. Run <a src="/screen_recoreder.py">screen_recoreder.py</a> for using python to record your screen. Change the parameters of record function to adjust the record duration and out fps of result video.
+1. Run <a href="/gesture_volume_control.py">gesture_volume_control.py</a> for controlling the volume using finger tip gesture </br>
+2. Run <a href="/HandTrackerModule.py">HandTrackerModule.py</a> just for checking the working of hand tracking by Mediapipe Hands </br?
+3. Run <a href="/screen_recoreder.py">screen_recoreder.py</a> for using python to record your screen. Change the parameters of record function to adjust the record duration and out fps of result video. </br>
 
 
    
