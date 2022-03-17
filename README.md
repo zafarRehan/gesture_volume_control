@@ -43,7 +43,7 @@ We can also have them running from same console using <b> python multiprocessing
 3. Run <a href="/screen_recoreder.py">screen_recoreder.py</a> for using python to record your screen. Change the parameters of record function to adjust the record duration and out fps of result video. </br>
 
 
-So basically we basically have 3 different functions in a single Repository
+So basically we basically have 3 different functionalities in a single Repository
 
 </br>
 
